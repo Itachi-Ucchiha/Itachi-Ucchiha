@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/phoenix_connection__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 </p>
-<p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Ucchiha)](https://git.io/streak-stats)
-</p>
+<br>
 ![](https://komarev.com/ghpvc/?username=Itachi-Ucchiha)
