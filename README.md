@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Ucchiha)](https://git.io/streak-stats)
 <br>
-![](https://komarev.com/ghpvc/?username=Itachi-Ucchiha)
+<br>![](https://komarev.com/ghpvc/?username=Itachi-Ucchiha)
