@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47fp3370q37gay6w5lpkcg2uw2m0cf1w28hs4tiec0&rid=200w.webp&ct=g">
+<img align="centre" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47fp3370q37gay6w5lpkcg2uw2m0cf1w28hs4tiec0&rid=200w.webp&ct=g">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
