@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2F9EA9&background=3CFFE900&height=184&lines=Hello+there!;+I'm+Gaurav+and+welcome+to+my+github+profile)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Itachi-Ucchiha)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
