@@ -3,7 +3,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gaurav-bora-1b0601184/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="" height="30" width="40" style="color:red;" /></a>
-<a href="https://www.instagram.com/phoenix_connection__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" style="color:red;" /></a>
+<a href="https://www.instagram.com/phoenix_connection__/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="" height="30" width="40" style="color:red;" /></a>
 
 </p>
 
