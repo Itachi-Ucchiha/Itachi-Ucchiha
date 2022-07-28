@@ -52,10 +52,10 @@
 
 ## 📊 Github Status
 
-<p><img src="https://metrics.lecoq.io/Ankitkanyal1"><p>
+<p><img src="https://metrics.lecoq.io/Itachi-Ucchiha"><p>
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Ankitkanyal1"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Itachi-Ucchiha"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Ankitkanyal1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Itachi-Ucchiha&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitkanyal1"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Ucchiha"><p>
