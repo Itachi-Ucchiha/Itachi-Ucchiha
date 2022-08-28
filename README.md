@@ -15,7 +15,7 @@
 </p>
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Android Development, Web Development, Python, Java</p>
+<p>🌱 I'm currently learning Web Development, Python, Java</p>
 <p>💬 Ask me about Front-End Development, Graphic Designing</p>
 <p>📫 How to reach me? <a href="gaurav.bora973@gmail.com">gaurav.bora973@gmail.com</a></p>
 <p>All of my projects are available at <a href="https://github.com/Itachi-Ucchiha?tab=repositories">My Repositories</a></p>
